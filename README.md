@@ -31,4 +31,4 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
   - [Covid 19 Dataset](https://nbviewer.jupyter.org/github/hargurjeet/Data-Analysis-Using-Python/blob/main/Covid19-Analysis.ipynb): The below analysis is performed on Covid 19 Dataset which is freely avabliable on GitHub. I have tried performing analysis on various features to understand the spread of virus across various geographies and how the induvial countries have been impacted economically.
 
 		
-	_Tools: Pandas, Folium, Seaborn and Matplotlib_
+	_Tools: Pandas, Folium, Seaborn and Matplotlib,plotly
