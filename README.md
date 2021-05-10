@@ -30,4 +30,4 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
   - [Olympics Dataset Analysis](https://nbviewer.jupyter.org/github/hargurjeet/Data-Analysis-Using-Python/blob/main/olympics_dataset_analysis.ipynb): This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016. In this notebook I use python to run some data exploration techniques to provid my view of viewing the dataset like understand the impact of Height,Weight and Age in winning the medals, Women participaiton over the years...etc.
   - [Covid 19 Dataset](https://nbviewer.jupyter.org/github/hargurjeet/Data-Analysis-Using-Python/blob/main/Covid19-Analysis.ipynb): The below analysis is performed on Covid 19 Dataset which is freely avabliable on GitHub. I have tried performing analysis on various features to understand the spread of virus across various geographies and how the induvial countries have been impacted economically.
 		
-	_Tools: Pandas, Folium, Seaborn and Matplotlib,plotly
+	_Tools: Pandas, Folium, Seaborn and Matplotlib,plotly_
