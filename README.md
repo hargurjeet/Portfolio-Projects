@@ -39,6 +39,6 @@ Project updates in progress
   - [Covid 19 Dataset](https://nbviewer.jupyter.org/github/hargurjeet/Data-Analysis-Using-Python/blob/main/Covid19-Analysis.ipynb): The below analysis is performed on Covid 19 Dataset which is freely avabliable on GitHub. I have tried performing analysis on various features to understand the spread of virus across various geographies and how the induvial countries have been impacted economically.My blog can be accessed [here](https://gurjeet333.medium.com/covid-19-explanatory-data-analysis-76cab46c48d1#ad87)
 		
 	_Tools: Pandas, Folium, Seaborn and Matplotlib,plotly_
-	
+- ### Data Science blogs on Medium 	
 	
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at gurjeet333@gmail.com
