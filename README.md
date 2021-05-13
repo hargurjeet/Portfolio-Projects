@@ -30,7 +30,7 @@ Project updates in progress
 
 - ### Natural Language Processing
 
-
+Project updates in progress
 	_Tools: NLTK, scikit_
 
 - ### Data Analysis and Visualisation
