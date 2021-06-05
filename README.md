@@ -36,6 +36,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 Project updates in progress
 
 - ### Natural Language Processing
+	- [Twitter Disaster Tweets](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/NLP_Twitter_Disaster_Tweets.ipynb): The dataset involves processing the text to predict if a tweet signifies disaster information or not. I build the model using the **NLTK lib** for text processing and TensorFlow for building up the neural network. I have applied **regular expression, stopwords, tokenization, pad sequences** to build the model and implemented it using **TensorFlow**
 
 Project updates in progress
 	_Tools: NLTK, scikit_
