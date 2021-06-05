@@ -21,7 +21,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 - ### DeepLearning
 
 - #### PyTorch
-  - - [Wheat Seed Dataset](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/Wheat_Seeds_Analysis_Pytorch_blogs.ipynb): The datasets involve the prediction of species given measurements of seeds from different varieties of wheat. I build a logistic regression model and achieved an accuracy of **78% under 15 epochs**.
+  - [Wheat Seed Dataset](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/Wheat_Seeds_Analysis_Pytorch_blogs.ipynb): The datasets involve the prediction of species given measurements of seeds from different varieties of wheat. I build a logistic regression model and achieved an accuracy of **78% under 15 epochs**.
   - [CFAR-10](https://www.kaggle.com/c/cifar-10): The dataset contains over **60,000 images** belonging to 10 classes. I have developed the following neural networks to evaluate their performance.
     - Built [Feed Forward neural network(ANN)](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/CFAR_10_Dataset.ipynb) and achievied an accurcy of **48%**.
     - Built [Convolutional Neural Network(CNN)](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/CNN_CFAR_10_Dataset.ipynb) and improved the accuracy till **75%**.
