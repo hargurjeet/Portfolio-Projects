@@ -21,7 +21,12 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 - ### DeepLearning
 
 - #### PyTorch
-  - [Wheat Seed Dataset](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/Wheat_Seeds_Analysis_Pytorch_blogs.ipynb): The datasets involves the prediction of species given measurements of seeds from different varieties of wheat. I build a logistic regression model and achievied accruacy of 78% under 15 epcohs. You can also read more about it on my [blog](https://gurjeet333.medium.com/logistic-regression-with-pytorch-a-beginner-guide-33c2266ad129)
+  - - [Wheat Seed Dataset](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/Wheat_Seeds_Analysis_Pytorch_blogs.ipynb): The datasets involve the prediction of species given measurements of seeds from different varieties of wheat. I build a logistic regression model and achieved an accuracy of **78% under 15 epochs**.
+  - [CFAR-10](https://www.kaggle.com/c/cifar-10): The dataset contains over **60,000 images** belonging to 10 classes. I have developed the following neural networks to evaluate their performance.
+    - Built [Feed Forward neural network(ANN)](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/CFAR_10_Dataset.ipynb) and achievied an accurcy of **48%**.
+    - Built [Convolutional Neural Network(CNN)](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/CNN_CFAR_10_Dataset.ipynb) and improved the accuracy till **75%**.
+    - Applied technique like Data normalization, Data augmentation, Batch normalization, Learning rate scheduling, Weight Decay, Gradient clipping...etc to further improve the model **accuracy to 90%**. You can access my notebook [here](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/CFAR_10_Image_Classifier.ipynb)
+  - [Fruit 360 Classifier](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/Fruit_360_Classification.ipynb): The problem involves predicting the fruit class from a set of 131 classes with training data of over 65k images. I build a CNN neural network to achieve the highest possible accuracy(i.e. **98%) under 5 epochs** in less than **4 mins**.  
    
 
 
