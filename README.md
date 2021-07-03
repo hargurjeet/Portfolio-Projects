@@ -42,6 +42,10 @@ Project updates in progress
 
 Project updates in progress
 	_Tools: NLTK, scikit_
+	
+- #### Recommedation-Systems
+	- [Anime Recommendation](https://nbviewer.jupyter.org/github/hargurjeet/Recommedation-Systems/blob/main/Anime_Recommendation_Item_Based_CosineSimilarity.ipynb): This data set contains information on user preference data from 73,516 users on 12,294 anime. I have implemented Cosine similarity and Nearest neighbors machine learning algorithm to make recommendations to 6 nearest neighbors. I have used the item based Collborative technique to recommend anime's to users. For non technical users you can access by blog [here](https://gurjeet333.medium.com/building-recommendations-system-a-beginner-guide-8593f205bc0a).
+	- [Book Recommendation](https://nbviewer.jupyter.org/github/hargurjeet/Recommedation-Systems/blob/main/Books_Recommendations.ipynb): The Dataset contatins over 10,000 user review. I have build a recommendation system using the weighted average technique. The jist of the analysis can also be accessed [here](https://gurjeet333.medium.com/what-should-i-read-next-books-recommendation-311666254817)	
 
 - ### Data Analysis and Visualisation
 	- [Zomato Resturant Analysis](https://nbviewer.jupyter.org/github/hargurjeet/Data-Analysis-Using-Python/blob/main/Zomato%20Restaurant%20Analysis.ipynb): I really get  fascinated by good quality food being served in the restaurants and would like to help community find the best cuisines around their area like highly rated resturants locality wise, Cost Vs Rating etc.You can also access my blog [here](https://gurjeet333.medium.com/explanatory-data-analysis-of-zomato-restaurant-data-71ba8c3c7e5e)
