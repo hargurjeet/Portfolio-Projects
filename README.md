@@ -54,6 +54,17 @@ Project updates in progress
   - [Covid 19 Dataset](https://nbviewer.jupyter.org/github/hargurjeet/Data-Analysis-Using-Python/blob/main/Covid19-Analysis.ipynb): The below analysis is performed on Covid 19 Dataset which is freely avabliable on GitHub. I have tried performing analysis on various features to understand the spread of virus across various geographies and how the induvial countries have been impacted economically.My blog can be accessed [here](https://gurjeet333.medium.com/covid-19-explanatory-data-analysis-76cab46c48d1#ad87)
 		
 	_Tools: Pandas, Folium, Seaborn and Matplotlib,plotly_
-- ### Data Science blogs on Medium 	
+- ### Data Science blogs on Medium 
+  - [Exploratory Data Analysis of Zomato Restaurant data](https://blog.jovian.ai/explanatory-data-analysis-of-zomato-restaurant-data-71ba8c3c7e5e)
+  - [Training Feed Forward Neural Network(FFNN) on GPU — Beginners Guide](https://medium.com/mlearning-ai/training-feed-forward-neural-network-ffnn-on-gpu-beginners-guide-2d04254deca9)
+  - [7 Best Techniques To Improve The Accuracy of CNN W/O Overfitting](https://medium.com/mlearning-ai/7-best-techniques-to-improve-the-accuracy-of-cnn-w-o-overfitting-6db06467182f)
+  - [Training Convolutional Neural Network(ConvNet/CNN) on GPU From Scratch](https://medium.com/mlearning-ai/training-convolutional-neural-network-convnet-cnn-on-gpu-from-scratch-439e9fdc13a5)
+  - [Training Feed Forward Neural Network(FFNN) on GPU — Beginners Guide](https://medium.com/mlearning-ai/training-feed-forward-neural-network-ffnn-on-gpu-beginners-guide-2d04254deca9)
+  - [Logistic Regression With PyTorch — A Beginner Guide](https://medium.com/analytics-vidhya/logistic-regression-with-pytorch-a-beginner-guide-33c2266ad129)
+  - [PyTorch - Training Fruit 360 Classifier Under 5 mins]()
+  - [Deep Learning for Beginners Using TensorFlow](https://gurjeet333.medium.com/cnn-german-traffic-signal-recognition-benchmarking-using-tensorflow-accuracy-80-d069b7996082)
+  - [Fake or Not ? Twitter Disaster Tweets](https://gurjeet333.medium.com/fake-or-not-twitter-disaster-tweets-f1a6b2311be9)
+  - [NLP — Detecting Fake News On Social Media](https://medium.com/mlearning-ai/nlp-detecting-fake-news-on-social-media-aa53ff74f2ff)
+  - [Building Recommendations System? A Beginner Guide](https://medium.com/mlearning-ai/building-recommendations-system-a-beginner-guide-8593f205bc0a)	
 	
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at gurjeet333@gmail.com
