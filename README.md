@@ -2,7 +2,6 @@
 ![](Images/datascience.jpeg)
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks markdown files.
 
-_Note: Data used in the projects (accessed under data directory) is for demonstration purposes only._
 
 - ### Machine Learning
 
@@ -17,7 +16,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	- [Califonia Housing Dataset](https://github.com/hargurjeet/MachineLearning/blob/Califonia-Housing-Dataset/Califonia_Housing_Analysis.ipynb): The data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census data. The object is to identify the median housing value in that area. This is a regression problem
 
 
-	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_ 
+	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, NumPy, Plotly_ 
 	
 - ### DeepLearning
 
