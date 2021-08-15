@@ -55,6 +55,7 @@ Project updates in progress
 		
 	_Tools: Pandas, Folium, Seaborn and Matplotlib,plotly_
 - ### Data Science blogs on Medium 
+  - [Machine Learning with Python: Implementing XGBoost and Random Forest](https://gurjeet333.medium.com/machine-learning-with-python-implementing-xgboost-and-random-forest-fd51fa4f9f4c)
   - [Exploratory Data Analysis of Zomato Restaurant data](https://blog.jovian.ai/explanatory-data-analysis-of-zomato-restaurant-data-71ba8c3c7e5e)
   - [Training Feed Forward Neural Network(FFNN) on GPU — Beginners Guide](https://medium.com/mlearning-ai/training-feed-forward-neural-network-ffnn-on-gpu-beginners-guide-2d04254deca9)
   - [7 Best Techniques To Improve The Accuracy of CNN W/O Overfitting](https://medium.com/mlearning-ai/7-best-techniques-to-improve-the-accuracy-of-cnn-w-o-overfitting-6db06467182f)
