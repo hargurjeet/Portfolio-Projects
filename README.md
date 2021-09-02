@@ -65,7 +65,7 @@ Project updates in progress
   - [Training Convolutional Neural Network(ConvNet/CNN) on GPU From Scratch](https://medium.com/mlearning-ai/training-convolutional-neural-network-convnet-cnn-on-gpu-from-scratch-439e9fdc13a5)
   - [Training Feed Forward Neural Network(FFNN) on GPU — Beginners Guide](https://medium.com/mlearning-ai/training-feed-forward-neural-network-ffnn-on-gpu-beginners-guide-2d04254deca9)
   - [Logistic Regression With PyTorch — A Beginner Guide](https://medium.com/analytics-vidhya/logistic-regression-with-pytorch-a-beginner-guide-33c2266ad129)
-  - [PyTorch - Training Fruit 360 Classifier Under 5 mins]()
+  - [PyTorch - Training Fruit 360 Classifier Under 5 mins](https://medium.com/geekculture/pytorch-training-fruit-360-classifier-under-5-mins-23153b46ec88)
   - [Deep Learning for Beginners Using TensorFlow](https://gurjeet333.medium.com/cnn-german-traffic-signal-recognition-benchmarking-using-tensorflow-accuracy-80-d069b7996082)
   - [Fake or Not ? Twitter Disaster Tweets](https://gurjeet333.medium.com/fake-or-not-twitter-disaster-tweets-f1a6b2311be9)
   - [NLP — Detecting Fake News On Social Media](https://medium.com/mlearning-ai/nlp-detecting-fake-news-on-social-media-aa53ff74f2ff)
