@@ -14,11 +14,14 @@ Repository containing portfolio of data science projects completed by me for aca
 	  - I use python to run some data exploration techniques to provid my view of viewing the dataset like understand the impact of Height,Weight and Age in winning the medals, Women participaiton over the years...etc.
 	  - Build intractive visuals using plotly.
 	  - Perfomed analysis over best and worst performing counteris.
-	  - Used python librairies seaborn and matplot lib
+	  - Used python librairies seaborn and matplot lib.
 	
-  - [Covid 19 Dataset](https://nbviewer.jupyter.org/github/hargurjeet/Data-Analysis-Using-Python/blob/main/Covid19-Analysis.ipynb): The below analysis is performed on Covid 19 Dataset which is freely avabliable on GitHub. I have tried performing analysis on various features to understand the spread of virus across various geographies and how the induvial countries have been impacted economically.My blog can be accessed [here](https://gurjeet333.medium.com/covid-19-explanatory-data-analysis-76cab46c48d1#ad87)
-		
-	_Tools: Pandas, Folium, Seaborn and Matplotlib,plotly_
+  - [Covid 19 Dataset](https://nbviewer.jupyter.org/github/hargurjeet/Data-Analysis-Using-Python/blob/main/Covid19-Analysis.ipynb): 
+  	- The analysis was perfomred over 47,000 records of daily covid data across 7 continents. The analysis was performed on 40 features.
+  	- Libraries used - Matplotlib, Seaborn, plotly and Pandas.
+  	- Analysed the trend of worst affected conteries and conturies having lowest death rate.
+  	- Econnomic impact of Covid 19 worldwide.
+  	
 	
 - ### Machine Learning
 - [Car Quality Detection](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/master/Used_Car_Quality_Detection.ipynb#top): One of the biggest challenges of an auto dealership purchasing a used car at an auto auction is the risk of that the vehicle might have serious issues that prevent it from being sold to customers.The challenge of this competition is to predict if the car purchased at the Auction is a Kick (bad buy). I build couple of state of the art model using XGBoost and Random forest. I implemented pileines, hyperparameter tuning, made sample prediction and saved the model to avoid retraining. I also submitted this model to Kaggle Competetion scoring in top 10 percent at the leaderbord.
