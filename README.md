@@ -7,16 +7,15 @@ Repository containing portfolio of data science projects completed by me for aca
 		- Analyzed over 9000 restaurants with over 20 features.
 		- Performed data analysis using Python(pandas, numpy) and building visualizations using matplot lib and seaborn.
 		- Identified best ‘Breakfast’, ‘Fast Food’ and ‘Ice Cream’ parlours in various localities.
-		- You can also access my blog [here](https://gurjeet333.medium.com/explanatory-data-analysis-of-zomato-restaurant-data-71ba8c3c7e5e)
 	
-  - [Olympics Dataset Analysis](https://nbviewer.jupyter.org/github/hargurjeet/Data-Analysis-Using-Python/blob/main/olympics_dataset_analysis.ipynb): 
+  - Olympics Dataset Analysis ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/Data-Analysis-Using-Python/blob/main/olympics_dataset_analysis.ipynb), [<img src="https://img.icons8.com/office/40/000000/blog.png"/>](https://medium.com/nerd-for-tech/data-exploration-of-historical-olympics-dataset-2d50a7d0611d)):
 	  - Analyzed Olympics data from Athens 1896 to Rio 2016. The dataset contain over 2,70,000 records acorss 15 features. 
 	  - I use python to run some data exploration techniques to provid my view of viewing the dataset like understand the impact of Height,Weight and Age in winning the medals, Women participaiton over the years...etc.
 	  - Build intractive visuals using plotly.
 	  - Perfomed analysis over best and worst performing counteris.
 	  - Used python librairies seaborn and matplot lib.
 	
-  - [Covid 19 Dataset](https://nbviewer.jupyter.org/github/hargurjeet/Data-Analysis-Using-Python/blob/main/Covid19-Analysis.ipynb): 
+  - Covid 19 Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/Data-Analysis-Using-Python/blob/main/Covid19-Analysis.ipynb), [<img src="https://img.icons8.com/office/40/000000/blog.png"/>](https://medium.com/geekculture/covid-19-explanatory-data-analysis-76cab46c48d1)): 
   	- The analysis was perfomred over 47,000 records of daily covid data across 7 continents. The analysis was performed on 40 features.
   	- Libraries used - Matplotlib, Seaborn, plotly and Pandas.
   	- Analysed the trend of worst affected conteries and conturies having lowest death rate.
@@ -24,7 +23,8 @@ Repository containing portfolio of data science projects completed by me for aca
   	
 	
 - ### Machine Learning
-	- [Car Quality Detection](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/master/Used_Car_Quality_Detection.ipynb#top): 
+	- Car Quality Detection ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/master/Used_Car_Quality_Detection.ipynb#top), [<img src="https://img.icons8.com/office/40/000000/blog.png"/>](https://blog.jovian.ai/machine-learning-with-python-implementing-xgboost-and-random-forest-fd51fa4f9f4c)): 
+	
 		- Problem Statement: One of the biggest challenges of an auto dealership purchasing a used car at an auto auction is the risk of that the vehicle might have serious issues that prevent it from being sold to customers.The challenge of this competition is to predict if the car purchased at the Auction is a Kick (bad buy).
 		- Processed data over 72k records with over 30 features to predict the quality of a car.
 		- Libraries used - pandas, numpy, sklearn, matplotlib and seaborn.
