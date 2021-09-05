@@ -33,7 +33,11 @@ Repository containing portfolio of data science projects completed by me for aca
 		- Submitted this model to Kaggle Competetion scoring in top 10 percent at the leaderbord. 
 
 	- Abalone Dataset ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Abalone-Dataset/Abalone_Dataset_Analysis.ipynb))
-		- A regression model to predict the age of abalone on the given objective measures. 
+		- Business case - Predicting the age of abalone on the given physical measures. 
+		- The dataset have over 4000 observation along with 8 features.
+		- Build pipeline, implemented StandardScaler and One-Hote encoding for numberical and categorical columns.
+		- Model Implemented - Linear regression, Decision Tree and Random forest. Evluation matrix - RMSE score.
+		- Hyperparamter tuing using grid search CV.
 
 	- Bank Note Dateset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Bank-Note-Dataset/Bank_Note_Analysis.ipynb))
 		- The Banknote Dataset involves predicting whether a given banknote is authentic given a number of measures taken from a photograph.It is a binary (2-class) classification problem. The number of observations for each class is not balanced. There are 1,372 observations with 4 input variables and 1 output variable.
@@ -50,8 +54,12 @@ Repository containing portfolio of data science projects completed by me for aca
 	- Sonar Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Sonar-Dataset/Sonar_Dataset.ipynb))
 		- : The Sonar Dataset involves the prediction of whether or not an object is a mine or a rock given the strength of sonar returns at different angles.It is a binary (2-class) classification problem. The number of observations for each class is not balanced.The baseline performance of predicting the most prevalent class is a classification accuracy of approximately 53%. I achieved a classification accuracy of approximately 93%.
 
-	- Ionosphere Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Sonar-Dataset/Sonar_Dataset.ipynb))
-		- : The Ionosphere Dataset requires the prediction of structure in the atmosphere given radar returns targeting free electrons in the ionosphere.There are 351 observations with 34 input variables and 1 output variable. I have achieved the classifcation accuracy of 93%.
+	- Ionosphere Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://github.com/hargurjeet/MachineLearning/blob/Ionosphere/Ionosphere_Data_Analysis.ipynb))
+		- Problem Statement - The Ionosphere Dataset requires the prediction of structure in the atmosphere given radar returns targeting free electrons in the ionosphere.
+		-  There are 351 observations with 34 input variables and 1 output variable.
+		-  As the dataset beeing small, I implemented the k fold cross validations.
+		-  ML models implemented - Logistic Regression,  KNeighborsClassifier, DecisionTreeClassifier, SVM)
+		-  Have achieved the classification accuracy of 93%.
 
 	- Wheat Seeds Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Wheat-Seeds/Wheat_Seeds_Analysis_Pytorch.ipynb))
 		- : The Wheat Seeds Dataset involves the prediction of species given measurements of seeds from different varieties of wheat.
