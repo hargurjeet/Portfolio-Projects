@@ -2,8 +2,8 @@
 ![](Images/datascience.jpeg)
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks markdown files.
 
-- ### Data Analysis and Visualisation
-	- [Zomato Resturant Analysis](https://nbviewer.jupyter.org/github/hargurjeet/Data-Analysis-Using-Python/blob/main/Zomato%20Restaurant%20Analysis.ipynb): 
+- ### Data Analysis and Visualisation 
+	- Zomato Resturant Analysis ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/Data-Analysis-Using-Python/blob/main/Zomato%20Restaurant%20Analysis.ipynb), [<img src="https://img.icons8.com/office/40/000000/blog.png"/>](https://blog.jovian.ai/explanatory-data-analysis-of-zomato-restaurant-data-71ba8c3c7e5e)):
 		- Analyzed over 9000 restaurants with over 20 features.
 		- Performed data analysis using Python(pandas, numpy) and building visualizations using matplot lib and seaborn.
 		- Identified best ‘Breakfast’, ‘Fast Food’ and ‘Ice Cream’ parlours in various localities.
