@@ -11,7 +11,7 @@ Repository containing portfolio of data science projects completed by me for aca
   - Olympics Dataset Analysis ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/Data-Analysis-Using-Python/blob/main/olympics_dataset_analysis.ipynb), [<img src="https://img.icons8.com/office/40/000000/blog.png"/>](https://medium.com/nerd-for-tech/data-exploration-of-historical-olympics-dataset-2d50a7d0611d)):
 	  - Analyzed Olympics data from Athens 1896 to Rio 2016. The dataset contain over 2,70,000 records acorss 15 features. 
 	  - I use python to run some data exploration techniques to provid my view of viewing the dataset like understand the impact of Height,Weight and Age in winning the medals, Women participaiton over the years...etc.
-	  - Build intractive visuals using plotly.
+	  - Build intractive visuals using plotly. Also use seaborn and matplotlib for building visual.
 	  - Perfomed analysis over best and worst performing counteris.
 	  - Used python librairies seaborn and matplot lib.
 	
@@ -32,15 +32,31 @@ Repository containing portfolio of data science projects completed by me for aca
 		- Performed hyperparameter tuning along with random search CV to achieve accuracy of 88%.
 		- Submitted this model to Kaggle Competetion scoring in top 10 percent at the leaderbord. 
 
-- [Abalone Dataset](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Abalone-Dataset/Abalone_Dataset_Analysis.ipynb): A regression model to predict the age of abalone on the given objective measures. 
-- [Bank Note Dateset](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Bank-Note-Dataset/Bank_Note_Analysis.ipynb): The Banknote Dataset involves predicting whether a given banknote is authentic given a number of measures taken from a photograph.It is a binary (2-class) classification problem. The number of observations for each class is not balanced. There are 1,372 observations with 4 input variables and 1 output variable.
-- [Swedish Auto Insurance Dataset](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Swedish-Auto-Insurance-Dataset/Swedish_Auto_Insurance_Dataset.ipynb): The Swedish Auto Insurance Dataset involves predicting the total payment for all claims in thousands of Swedish Kronor, given the total number of claims.It is a regression problem.The model performance of predicting the mean value is an RMSE of approximately 118 thousand Kronor.
-- [Wine Quality Dataset](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Wine-Quality-Dataset/Wine_Quality_Dataset.ipynb): The Wine Quality Dataset involves predicting the quality of white wines on a scale given chemical measures of each wine.
-- [Pima Indians Diabetes Dataset](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Pima-Indians-Diabetes-Dataset/Pima_Indians_Diabetes_Dataset.ipynb): The Pima Indians Diabetes Dataset involves predicting the onset of diabetes within 5 years in Pima Indians given medical details.It is a binary (2-class) classification problem. The number of observations for each class is not balanced. There are 768 observations with 8 input variables and 1 output variable. Missing values are believed to be encoded with zero values.The baseline performance of predicting the most prevalent class is a classification accuracy of approximately 65%. I achieved a classification accuracy of approximately 77%.
-- [Sonar Dataset](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Sonar-Dataset/Sonar_Dataset.ipynb): The Sonar Dataset involves the prediction of whether or not an object is a mine or a rock given the strength of sonar returns at different angles.It is a binary (2-class) classification problem. The number of observations for each class is not balanced.The baseline performance of predicting the most prevalent class is a classification accuracy of approximately 53%. I achieved a classification accuracy of approximately 93%.
-- [Ionosphere Dataset](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Sonar-Dataset/Sonar_Dataset.ipynb): The Ionosphere Dataset requires the prediction of structure in the atmosphere given radar returns targeting free electrons in the ionosphere.There are 351 observations with 34 input variables and 1 output variable. I have achieved the classifcation accuracy of 93%.
-- [Wheat Seeds Dataset](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Wheat-Seeds/Wheat_Seeds_Analysis_Pytorch.ipynb): The Wheat Seeds Dataset involves the prediction of species given measurements of seeds from different varieties of wheat.
-- [Califonia Housing Dataset](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Califonia-Housing-Dataset/Califonia_Housing_Analysis.ipynb): The data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census data. The object is to identify the median housing value in that area. This is a regression problem
+	- Abalone Dataset ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Abalone-Dataset/Abalone_Dataset_Analysis.ipynb))
+		- A regression model to predict the age of abalone on the given objective measures. 
+
+	- Bank Note Dateset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Bank-Note-Dataset/Bank_Note_Analysis.ipynb))
+		- The Banknote Dataset involves predicting whether a given banknote is authentic given a number of measures taken from a photograph.It is a binary (2-class) classification problem. The number of observations for each class is not balanced. There are 1,372 observations with 4 input variables and 1 output variable.
+
+	- Swedish Auto Insurance Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Swedish-Auto-Insurance-Dataset/Swedish_Auto_Insurance_Dataset.ipynb))
+		- The Swedish Auto Insurance Dataset involves predicting the total payment for all claims in thousands of Swedish Kronor, given the total number of claims.It is a regression problem.The model performance of predicting the mean value is an RMSE of approximately 118 thousand Kronor.
+
+	- Wine Quality Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Wine-Quality-Dataset/Wine_Quality_Dataset.ipynb))
+		- : The Wine Quality Dataset involves predicting the quality of white wines on a scale given chemical measures of each wine.
+
+	- Pima Indians Diabetes Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Pima-Indians-Diabetes-Dataset/Pima_Indians_Diabetes_Dataset.ipynb))
+		- : The Pima Indians Diabetes Dataset involves predicting the onset of diabetes within 5 years in Pima Indians given medical details.It is a binary (2-class) classification problem. The number of observations for each class is not balanced. There are 768 observations with 8 input variables and 1 output variable. Missing values are believed to be encoded with zero values.The baseline performance of predicting the most prevalent class is a classification accuracy of approximately 65%. I achieved a classification accuracy of approximately 77%.
+
+	- Sonar Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Sonar-Dataset/Sonar_Dataset.ipynb))
+		- : The Sonar Dataset involves the prediction of whether or not an object is a mine or a rock given the strength of sonar returns at different angles.It is a binary (2-class) classification problem. The number of observations for each class is not balanced.The baseline performance of predicting the most prevalent class is a classification accuracy of approximately 53%. I achieved a classification accuracy of approximately 93%.
+
+	- Ionosphere Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Sonar-Dataset/Sonar_Dataset.ipynb))
+		- : The Ionosphere Dataset requires the prediction of structure in the atmosphere given radar returns targeting free electrons in the ionosphere.There are 351 observations with 34 input variables and 1 output variable. I have achieved the classifcation accuracy of 93%.
+
+	- Wheat Seeds Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Wheat-Seeds/Wheat_Seeds_Analysis_Pytorch.ipynb))
+		- : The Wheat Seeds Dataset involves the prediction of species given measurements of seeds from different varieties of wheat.
+
+	- Califonia Housing Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Califonia-Housing-Dataset/Califonia_Housing_Analysis.ipynb)): The data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census data. The object is to identify the median housing value in that area. This is a regression problem
 
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, NumPy, Plotly_ 
