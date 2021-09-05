@@ -37,22 +37,41 @@ Repository containing portfolio of data science projects completed by me for aca
 		- The dataset have over 4000 observation along with 8 features.
 		- Build pipeline, implemented StandardScaler and One-Hote encoding for numberical and categorical columns.
 		- Model Implemented - Linear regression, Decision Tree and Random forest. Evluation matrix - RMSE score.
-		- Hyperparamter tuing using grid search CV.
+		- Hyperparamter tuning using grid search CV and achieved an RMSE score of **2.254**.
 
 	- Bank Note Dateset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Bank-Note-Dataset/Bank_Note_Analysis.ipynb))
-		- The Banknote Dataset involves predicting whether a given banknote is authentic given a number of measures taken from a photograph.It is a binary (2-class) classification problem. The number of observations for each class is not balanced. There are 1,372 observations with 4 input variables and 1 output variable.
+		- Problem Statement - The Banknote Dataset involves predicting whether a given banknote is authentic given a number of measures taken from a photograph.
+		- The dataset have 1300 observeration of various noteparametes as features. It is a binary classification problem.
+		- Data cleaning, Feature analysis and visuliazation using Pandas.
+		- ML models implemented - Logistic regression, KNeighborsClassifier and SVM.
+		- Hyperparamter tuning using GridsearchCV.
+		- Model evluation - Precision and Recall calculated along with f1 scores.
 
 	- Swedish Auto Insurance Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Swedish-Auto-Insurance-Dataset/Swedish_Auto_Insurance_Dataset.ipynb))
-		- The Swedish Auto Insurance Dataset involves predicting the total payment for all claims in thousands of Swedish Kronor, given the total number of claims.It is a regression problem.The model performance of predicting the mean value is an RMSE of approximately 118 thousand Kronor.
+		- Problem Statement - The Swedish Auto Insurance Dataset involves predicting the total payment for all claims in thousands of Swedish Kronor.
+		- Libarary used - Numpy, Pandas, Matplotlib and sklearn.
+		- Folowing ML model implemented and evaluated against RMSE, MAE scores - Linear Regression, Decison trees, Random Forest
+		- It is a regression problem.The model performance of predicting the mean value is an RMSE of approximately 118 thousand Kronor.
 
 	- Wine Quality Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Wine-Quality-Dataset/Wine_Quality_Dataset.ipynb))
-		- : The Wine Quality Dataset involves predicting the quality of white wines on a scale given chemical measures of each wine.
+		- Problem Statement - The Wine Quality Dataset involves predicting the quality of white wines on a scale given chemical measures of each wine.
+		- The dataset have 5000 obseravation and 10 features.
+		- Libarary used - Numpy, Pandas, Matplotlib and sklearn.
+		- Feature analysis, Identiying relevant features, co relation of features with the target feature.
+		- LinearRegression implemented and RMSE score of **0.75** is achivied.
 
 	- Pima Indians Diabetes Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Pima-Indians-Diabetes-Dataset/Pima_Indians_Diabetes_Dataset.ipynb))
-		- : The Pima Indians Diabetes Dataset involves predicting the onset of diabetes within 5 years in Pima Indians given medical details.It is a binary (2-class) classification problem. The number of observations for each class is not balanced. There are 768 observations with 8 input variables and 1 output variable. Missing values are believed to be encoded with zero values.The baseline performance of predicting the most prevalent class is a classification accuracy of approximately 65%. I achieved a classification accuracy of approximately 77%.
+		- The Pima Indians Diabetes Dataset involves predicting the onset of diabetes within 5 years in Pima Indians given medical details.
+		- It is a binary (2-class) classification problem. There are 768 observations with 8 input variables and 1 output variable.
+		- Libarary used - Numpy, Pandas, Matplotlib and sklearn. 
+		- Implemented KNN classification. Parameter tuning using GridsearchCV.
+		- The baseline performance of predicting the most prevalent class is a classification accuracy of approximately 65%. I achieved a classification accuracy of approximately 77%.
 
 	- Sonar Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Sonar-Dataset/Sonar_Dataset.ipynb))
-		- : The Sonar Dataset involves the prediction of whether or not an object is a mine or a rock given the strength of sonar returns at different angles.It is a binary (2-class) classification problem. The number of observations for each class is not balanced.The baseline performance of predicting the most prevalent class is a classification accuracy of approximately 53%. I achieved a classification accuracy of approximately 93%.
+		- The Sonar Dataset involves the prediction of whether or not an object is a mine or a rock given the strength of sonar returns at different angles.
+		- It is a binary (2-class) classification problem with 200 observations and 61 features.
+		- ML Models implemented - LogisticRegression, LinearDiscriminantAnalysis, KNeighborsClassifier, DecisionTreeClassifier, SVM.
+		- Hyperparameter tuning and achieved a classification accuracy of approximately 93%.
 
 	- Ionosphere Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://github.com/hargurjeet/MachineLearning/blob/Ionosphere/Ionosphere_Data_Analysis.ipynb))
 		- Problem Statement - The Ionosphere Dataset requires the prediction of structure in the atmosphere given radar returns targeting free electrons in the ionosphere.
