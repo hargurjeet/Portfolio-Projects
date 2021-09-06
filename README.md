@@ -81,9 +81,19 @@ Repository containing portfolio of data science projects completed by me for aca
 		-  Have achieved the classification accuracy of 93%.
 
 	- Wheat Seeds Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Wheat-Seeds/Wheat_Seeds_Analysis_Pytorch.ipynb))
-		- : The Wheat Seeds Dataset involves the prediction of species given measurements of seeds from different varieties of wheat.
+		- The Wheat Seeds Dataset involves the prediction of species given measurements of seeds from different varieties of wheat.
+		- There are 199 observations with 7 input variables and 1 output variable.
+		- Implemented a Feed forward neural network.
+		- Accuray of 60% is achivied.
 
-	- Califonia Housing Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Califonia-Housing-Dataset/Califonia_Housing_Analysis.ipynb)): The data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census data. The object is to identify the median housing value in that area. This is a regression problem
+	- Califonia Housing Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Califonia-Housing-Dataset/Califonia_Housing_Analysis.ipynb))
+		- The data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census data. The object is to identify the median housing value in that area.
+		- The dataset have over 20,000 records and 9 features. 
+		- Libraries used - numpy, OS, requests, urllib, Pandas, sklearn.
+		- Feature analysis, stratified shuffle split, Visualized data to gain insights.
+		- Data cleaning and preprocessing acivities - duplicate check, null values, One-Hot encoding, Feature scaling.
+		- Model implement - Linear regression, Decision tree.
+		- Hyperparameter tuning using gridsearchCV to evalute best model. RMSE of **47362** is achivied on test set.
 
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, NumPy, Plotly_ 
