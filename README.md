@@ -32,6 +32,22 @@ Repository containing portfolio of data science projects completed by me for aca
 		- Performed hyperparameter tuning along with random search CV to achieve accuracy of 88%.
 		- Submitted this model to Kaggle Competetion scoring in top 10 percent at the leaderbord. 
 
+
+	- Califonia Housing Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Califonia-Housing-Dataset/Califonia_Housing_Analysis.ipynb))
+		- The data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census data. The object is to identify the median housing value in that area.
+		- The dataset have over 20,000 records and 9 features. 
+		- Libraries used - numpy, OS, requests, urllib, Pandas, sklearn.
+		- Feature analysis, stratified shuffle split, Visualized data to gain insights.
+		- Data cleaning and preprocessing acivities - duplicate check, null values, One-Hot encoding, Feature scaling.
+		- Model implement - Linear regression, Decision tree.
+		- Hyperparameter tuning using gridsearchCV to evalute best model. RMSE of **47362** is achivied on test set.
+		
+	- Wine Quality Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Wine-Quality-Dataset/Wine_Quality_Dataset.ipynb))
+		- Problem Statement - The Wine Quality Dataset involves predicting the quality of white wines on a scale given chemical measures of each wine.
+		- The dataset have 5000 obseravation and 10 features.
+		- Libarary used - Numpy, Pandas, Matplotlib and sklearn.
+		- Feature analysis, Identiying relevant features, co relation of features with the target feature.
+		- LinearRegression implemented and RMSE score of **0.75** is achivied.
 	- Abalone Dataset ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Abalone-Dataset/Abalone_Dataset_Analysis.ipynb))
 		- Business case - Predicting the age of abalone on the given physical measures. 
 		- The dataset have over 4000 observation along with 8 features.
@@ -53,12 +69,7 @@ Repository containing portfolio of data science projects completed by me for aca
 		- Folowing ML model implemented and evaluated against RMSE, MAE scores - Linear Regression, Decison trees, Random Forest
 		- It is a regression problem.The model performance of predicting the mean value is an RMSE of approximately 118 thousand Kronor.
 
-	- Wine Quality Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Wine-Quality-Dataset/Wine_Quality_Dataset.ipynb))
-		- Problem Statement - The Wine Quality Dataset involves predicting the quality of white wines on a scale given chemical measures of each wine.
-		- The dataset have 5000 obseravation and 10 features.
-		- Libarary used - Numpy, Pandas, Matplotlib and sklearn.
-		- Feature analysis, Identiying relevant features, co relation of features with the target feature.
-		- LinearRegression implemented and RMSE score of **0.75** is achivied.
+
 
 	- Pima Indians Diabetes Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Pima-Indians-Diabetes-Dataset/Pima_Indians_Diabetes_Dataset.ipynb))
 		- The Pima Indians Diabetes Dataset involves predicting the onset of diabetes within 5 years in Pima Indians given medical details.
@@ -86,14 +97,7 @@ Repository containing portfolio of data science projects completed by me for aca
 		- Implemented a Feed forward neural network.
 		- Accuray of 60% is achivied.
 
-	- Califonia Housing Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Califonia-Housing-Dataset/Califonia_Housing_Analysis.ipynb))
-		- The data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census data. The object is to identify the median housing value in that area.
-		- The dataset have over 20,000 records and 9 features. 
-		- Libraries used - numpy, OS, requests, urllib, Pandas, sklearn.
-		- Feature analysis, stratified shuffle split, Visualized data to gain insights.
-		- Data cleaning and preprocessing acivities - duplicate check, null values, One-Hot encoding, Feature scaling.
-		- Model implement - Linear regression, Decision tree.
-		- Hyperparameter tuning using gridsearchCV to evalute best model. RMSE of **47362** is achivied on test set.
+	
 
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, NumPy, Plotly_ 
