@@ -48,12 +48,6 @@ Repository containing portfolio of data science projects completed by me for aca
 		- Libarary used - Numpy, Pandas, Matplotlib and sklearn.
 		- Feature analysis, Identiying relevant features, co relation of features with the target feature.
 		- LinearRegression implemented and RMSE score of **0.75** is achivied.
-	- Abalone Dataset ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Abalone-Dataset/Abalone_Dataset_Analysis.ipynb))
-		- Business case - Predicting the age of abalone on the given physical measures. 
-		- The dataset have over 4000 observation along with 8 features.
-		- Build pipeline, implemented StandardScaler and One-Hote encoding for numberical and categorical columns.
-		- Model Implemented - Linear regression, Decision Tree and Random forest. Evluation matrix - RMSE score.
-		- Hyperparamter tuning using grid search CV and achieved an RMSE score of **2.254**.
 
 	- Bank Note Dateset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Bank-Note-Dataset/Bank_Note_Analysis.ipynb))
 		- Problem Statement - The Banknote Dataset involves predicting whether a given banknote is authentic given a number of measures taken from a photograph.
@@ -63,13 +57,13 @@ Repository containing portfolio of data science projects completed by me for aca
 		- Hyperparamter tuning using GridsearchCV.
 		- Model evluation - Precision and Recall calculated along with f1 scores.
 
-	- Swedish Auto Insurance Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Swedish-Auto-Insurance-Dataset/Swedish_Auto_Insurance_Dataset.ipynb))
-		- Problem Statement - The Swedish Auto Insurance Dataset involves predicting the total payment for all claims in thousands of Swedish Kronor.
-		- Libarary used - Numpy, Pandas, Matplotlib and sklearn.
-		- Folowing ML model implemented and evaluated against RMSE, MAE scores - Linear Regression, Decison trees, Random Forest
-		- It is a regression problem.The model performance of predicting the mean value is an RMSE of approximately 118 thousand Kronor.
 
-
+	- Abalone Dataset ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Abalone-Dataset/Abalone_Dataset_Analysis.ipynb))
+		- Business case - Predicting the age of abalone on the given physical measures. 
+		- The dataset have over 4000 observation along with 8 features.
+		- Build pipeline, implemented StandardScaler and One-Hote encoding for numberical and categorical columns.
+		- Model Implemented - Linear regression, Decision Tree and Random forest. Evluation matrix - RMSE score.
+		- Hyperparamter tuning using grid search CV and achieved an RMSE score of **2.254**.
 
 	- Pima Indians Diabetes Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Pima-Indians-Diabetes-Dataset/Pima_Indians_Diabetes_Dataset.ipynb))
 		- The Pima Indians Diabetes Dataset involves predicting the onset of diabetes within 5 years in Pima Indians given medical details.
@@ -78,11 +72,11 @@ Repository containing portfolio of data science projects completed by me for aca
 		- Implemented KNN classification. Parameter tuning using GridsearchCV.
 		- The baseline performance of predicting the most prevalent class is a classification accuracy of approximately 65%. I achieved a classification accuracy of approximately 77%.
 
-	- Sonar Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Sonar-Dataset/Sonar_Dataset.ipynb))
-		- The Sonar Dataset involves the prediction of whether or not an object is a mine or a rock given the strength of sonar returns at different angles.
-		- It is a binary (2-class) classification problem with 200 observations and 61 features.
-		- ML Models implemented - LogisticRegression, LinearDiscriminantAnalysis, KNeighborsClassifier, DecisionTreeClassifier, SVM.
-		- Hyperparameter tuning and achieved a classification accuracy of approximately 93%.
+	- Swedish Auto Insurance Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Swedish-Auto-Insurance-Dataset/Swedish_Auto_Insurance_Dataset.ipynb))
+		- Problem Statement - The Swedish Auto Insurance Dataset involves predicting the total payment for all claims in thousands of Swedish Kronor.
+		- Libarary used - Numpy, Pandas, Matplotlib and sklearn.
+		- Folowing ML model implemented and evaluated against RMSE, MAE scores - Linear Regression, Decison trees, Random Forest
+		- It is a regression problem.The model performance of predicting the mean value is an RMSE of approximately 118 thousand Kronor.
 
 	- Ionosphere Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://github.com/hargurjeet/MachineLearning/blob/Ionosphere/Ionosphere_Data_Analysis.ipynb))
 		- Problem Statement - The Ionosphere Dataset requires the prediction of structure in the atmosphere given radar returns targeting free electrons in the ionosphere.
@@ -91,14 +85,17 @@ Repository containing portfolio of data science projects completed by me for aca
 		-  ML models implemented - Logistic Regression,  KNeighborsClassifier, DecisionTreeClassifier, SVM)
 		-  Have achieved the classification accuracy of 93%.
 
+	- Sonar Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Sonar-Dataset/Sonar_Dataset.ipynb))
+		- The Sonar Dataset involves the prediction of whether or not an object is a mine or a rock given the strength of sonar returns at different angles.
+		- It is a binary (2-class) classification problem with 200 observations and 61 features.
+		- ML Models implemented - LogisticRegression, LinearDiscriminantAnalysis, KNeighborsClassifier, DecisionTreeClassifier, SVM.
+		- Hyperparameter tuning and achieved a classification accuracy of approximately 93%.
+
 	- Wheat Seeds Dataset([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/Wheat-Seeds/Wheat_Seeds_Analysis_Pytorch.ipynb))
 		- The Wheat Seeds Dataset involves the prediction of species given measurements of seeds from different varieties of wheat.
 		- There are 199 observations with 7 input variables and 1 output variable.
 		- Implemented a Feed forward neural network.
 		- Accuray of 60% is achivied.
-
-	
-
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, NumPy, Plotly_ 
 	
