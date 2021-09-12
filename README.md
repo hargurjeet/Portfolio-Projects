@@ -103,8 +103,12 @@ Repository containing portfolio of data science projects completed by me for aca
 
 - #### PyTorch 
 
-  - [Fruit 360 Classifier](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/Fruit_360_Classification.ipynb): The problem involves predicting the fruit class from a set of 131 classes with training data of over 65k images. I build a CNN neural network to achieve the highest possible accuracy(i.e. **98%) under 5 epochs** in less than **4 mins**. 	
- 
+  - [Fruit 360 Classifier](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/Fruit_360_Classification.ipynb): 
+	  - Built a CNN and trained over 65k fruit images to predict the class of fruit from a set of 131 classes.
+	  - Model is built on PyTorch along with the implementation of techniques like Data augmentation, Batch normalization, Learning rate scheduling, Weight Decay, Gradient clipping to achieve the best results.
+	  - The tensors are trained and evaluated on GPU using PyTorch built-in CUDA library to build the model.
+	  - Inference - Achieved model accuracy of 98% under 5 mins undermining the power of all techniques.	
+
   - [CFAR-10](https://www.kaggle.com/c/cifar-10): The dataset contains over **60,000 images** belonging to 10 classes. I have developed the following neural networks to evaluate their performance.
     - Built [Feed Forward neural network(ANN)](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/CFAR_10_Dataset.ipynb) and achievied an accurcy of **48%**.
     - Built [Convolutional Neural Network(CNN)](https://nbviewer.jupyter.org/github/hargurjeet/DeepLearning/blob/main/CNN_CFAR_10_Dataset.ipynb) and improved the accuracy till **75%**.
